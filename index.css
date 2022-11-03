@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+
+#boxes{
+    display: flex;
+    margin: auto;
+    max-width: 90%;
+    background-color: #49ad9d;
+}
+
+#list_left{
+    background-color: #3478f5;
+    padding: 20px;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+#list_right{
+    background-color: #a33838;
+    padding: 20px;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+ul{
+    background-color: #f1f1f1;
+}
